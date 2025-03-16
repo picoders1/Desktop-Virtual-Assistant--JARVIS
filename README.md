@@ -1,2 +1,5 @@
 # Desktop-Virtual-Assistant--JARVIS
-JARVIS is a Voice-Based AI Assistant which is developed in Python Programming Language . It uses Different Technologies To Add New Unique Features. It can Automate Tasks with just One Voice Command. It is a Desktop Based AI Assistant.
+
+JARVIS is a voice-based AI assistant developed in Python programming language. It uses different technologies to add new and unique features. It can Automate Tasks with just One Voice Command. It is a desktop-based AI Assistant.
+
+## Thank You!!
